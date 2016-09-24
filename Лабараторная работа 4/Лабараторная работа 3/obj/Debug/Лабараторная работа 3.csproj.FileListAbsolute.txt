@@ -1,0 +1,18 @@
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\bin\Debug\Лабараторная работа 3.exe.config
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\bin\Debug\Лабараторная работа 3.exe
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\bin\Debug\Лабараторная работа 3.pdb
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\obj\Debug\Лабараторная_работа_3.Form1.resources
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\obj\Debug\Лабараторная_работа_3.Properties.Resources.resources
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.csproj.GenerateResource.Cache
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.exe
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 3\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.pdb
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\bin\Debug\Лабараторная работа 3.exe.config
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.exe
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.pdb
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\bin\Debug\Лабараторная работа 3.exe
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\bin\Debug\Лабараторная работа 3.pdb
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\obj\Debug\Лабараторная_работа_3.Form1.resources
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\obj\Debug\Лабараторная_работа_3.Properties.Resources.resources
+C:\Users\Евгений\Documents\Visual Studio 2013\Projects\3 курс\Лабараторная работа 4\Лабараторная работа 3\obj\Debug\Лабараторная работа 3.csproj.GenerateResource.Cache
